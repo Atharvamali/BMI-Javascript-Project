@@ -1,0 +1,47 @@
+.container {
+    width: 375px;
+    height: 525px;
+    margin-left: 350px;
+    margin-top: 65px;
+    background-color: black;
+    padding-left: 500px;
+}
+#height, #weight {
+    width: 150px;
+    height: 25px;
+    margin-top: 30px;
+}
+
+#weight-guide{
+    margin-left: 75px;
+    margin-top: 25px;
+}
+
+#results{
+    font-size: 35px;
+    margin-left: 90px;
+    margin-top: 20px;
+    color: rgb(70, 204, 228);
+}
+
+button{
+    width: 150px;
+    height: 35px;
+    margin-left: 90px;
+    margin-top: 25px;
+    border-radius: 5px;
+    border-style: none;
+    background-color: rgba(26, 165, 207, 0.925);
+    color: #fff;
+    font-size: 25px;
+}
+.myDiv {
+  
+  background-color:lightblue;
+  text-align: center;
+}
+
+h1{
+    padding-left: 15px;
+    padding-top: 25px;
+}
